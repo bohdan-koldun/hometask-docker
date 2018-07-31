@@ -1,0 +1,5 @@
+web:
+  image: cat-blog-nginx
+  ports:
+   - "8080:80"
+
